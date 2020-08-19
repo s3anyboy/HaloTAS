@@ -1,0 +1,12 @@
+# Version format
+version: 1.0.{build}
+
+# Build platform
+platform: Any CPU
+
+# Build Configuration
+configuration: Debug
+
+# MSBuild settings
+build:
+  project: HaloTAS\HaloTAS.sln
